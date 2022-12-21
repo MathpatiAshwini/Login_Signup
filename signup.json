@@ -1,0 +1,14 @@
+{
+    "user": [
+        {
+            "username": "Muktai",
+            "password": "Muktai@123",
+            "profile": {
+                "description": " i am capable person",
+                "D.O.B": "24/09/2004",
+                "Gender": " female",
+                "Habbies": " reading , leasning songs"
+            }
+        }
+    ]
+}
